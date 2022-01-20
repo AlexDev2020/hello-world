@@ -6,6 +6,8 @@
 namespace TestLib
 {
     void hello( const std::string & name );
+
+    void NewFun();
 }
 
 #endif

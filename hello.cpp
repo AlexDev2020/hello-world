@@ -6,3 +6,8 @@ void TestLib::hello( const std::string & name )
 {
     std::cout << "Hello " << name << std::endl;
 }
+
+void TestLib::NewFun()
+{
+    int test =5;
+}
